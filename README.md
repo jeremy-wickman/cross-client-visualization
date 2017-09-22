@@ -1,1 +1,1 @@
-An exploration of the performance of teams in the WFL Fantasy Football League
+Creating an extensible visualization of survey data across a given demographic category
